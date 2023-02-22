@@ -69,7 +69,7 @@ This program will help to do following:
 
 2) Add a new task
  
-<br><img src="https://user-images.githubusercontent.com/117369262/220387320-91597c93-f5f7-4228-8534-88b2f860de43.png" title="Code button" width="700"/>
+<br><img src="https://user-images.githubusercontent.com/117369262/220619016-224e402d-0b2d-478c-be51-945f12d4c78b.png" title="Code button" width="700"/>
 
 
 3) View all tasks
