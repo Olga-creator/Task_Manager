@@ -3,9 +3,9 @@
 ## **About the Project** <a name="project"></a>
 This program is used by a small business and can help to manage tasks assigned to each member of the team.
 The program allows the users to do the following:
-1) Login. The user will be prompted to enter a username and valid password. The error message will be displayed if the user enters invalid username or password. 
+1) Login. The user will be prompted to enter a username and valid password. The error message will be displayed if the user enters invalid username or / and password. 
 2) The menu with choices will be displayed, once the user has successfully logged in. The user will be able add new task for existing users, view all tasks or view only specific users' tasks. 
-3) Admin will have additional access to register a new user. Also, admin can review statistics. 
+3) Admin will have additional access to register a new user, generate reports and view statistics.
 
 ## **Table of Contents**
 1. [About the Project](#project)
@@ -54,11 +54,11 @@ Learn more about [forking](https://help.github.com/en/github/getting-started-wit
 
 When the program is started, the user will be prompted to enter username and password. Error message will be displayed if the user enters invalid username or password.
 
-<br><img src="https://user-images.githubusercontent.com/117369262/220384686-310813e8-f773-4e32-b03f-c3bf4632c3c9.png" title="Code button" width="300"/>
+<br><img src="https://user-images.githubusercontent.com/117369262/220615346-c127469c-9305-46e4-82a8-f22c53b9c649.png" title="Code button" width="300"/>
 
 Once the user has successfully logged in, the main menu will be displayed in order for a user to choose from the options provided. 
 
-<br><img src="https://user-images.githubusercontent.com/117369262/220385274-781643b9-270a-4f6e-ab50-5b76f3505845.png" title="Code button" width="300"/>
+<br><img src="https://user-images.githubusercontent.com/117369262/220615513-e5d173b2-2ab8-485f-981e-b82bc1e32be3.png" title="Code button" width="300"/>
 
 
 This program will help to do following:
