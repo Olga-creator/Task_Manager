@@ -89,10 +89,10 @@ Learn more about [forking](https://help.github.com/en/github/getting-started-wit
 
 6) Generate reports
 
-<br><img src="https://user-images.githubusercontent.com/117369262/220626422-7877f6ad-f982-4690-8aab-f9c893e4063d.png" title="Code button" width="800"/>
+<br><img src="https://user-images.githubusercontent.com/117369262/220626422-7877f6ad-f982-4690-8aab-f9c893e4063d.png" title="Code button" width="600"/>
 
-<br><img src="https://user-images.githubusercontent.com/117369262/220626583-131f5a71-7cda-40ad-b3c3-e031416d3248.png" title="Code button" width="800"/>
-<br><img src="https://user-images.githubusercontent.com/117369262/220626660-0eebb288-d7cb-46ef-90b0-9156ef9eec62.png" title="Code button" width="800"/>
+<br><img src="https://user-images.githubusercontent.com/117369262/220626583-131f5a71-7cda-40ad-b3c3-e031416d3248.png" title="Code button" width="600"/>
+<br><img src="https://user-images.githubusercontent.com/117369262/220626660-0eebb288-d7cb-46ef-90b0-9156ef9eec62.png" title="Code button" width="600"/>
 
 7) Exit the program 
 
