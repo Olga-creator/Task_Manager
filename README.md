@@ -63,9 +63,9 @@ Once the user has successfully logged in, the main menu will be displayed in ord
 
 This program will help to do following:
 
-1) Register a new user (admin only!). Error message will be displayed if password confirmation doesn't match to initial password. 
+1) Register a new user (admin only!). Error message will be displayed if password confirmation doesn't match to initial password or user has already exists. 
 
-<br><img src="https://user-images.githubusercontent.com/117369262/220386379-47c61b0d-5304-4066-8a7e-55306609f9ef.png" title="Code button" width="400"/>
+<br><img src="https://user-images.githubusercontent.com/117369262/220617918-160b0340-b473-48d5-844f-b424a0c3827e.png" title="Code button" width="400"/>
 
 2) Add a new task
  
