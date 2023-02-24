@@ -1,6 +1,3 @@
 admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 30 Dec 2023, No
 helen, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 05 Jan 2023, 25 Oct 2023, No
-helen, dfgg, gdgdgdr, 31 Dec 2022, 31 Dec 2022, Yes
-olga, vdfgf, dgdfgdf, 31 Dec 2022, 30 Dec 2022, Yes
-olga, fdfgdf, dgfg, 12 Dec 2022, 31 Dec 2024, No
-admin, dfsfdf, fdgsdgd, 25 Dec 2023, 11 Dec 2023, No
+helen, Debugging, Identifying and removing errors from computer hardware or software., 31 Dec 2022, 31 Dec 2022, Yes
